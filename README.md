@@ -6,6 +6,7 @@
 - **Active Task**: Milestone 1 - Exploratory Data Analysis (EDA)
 
 ## Folder Structure
+- **GitHub Repository**: [https://github.com/HlozBelloz/Hloz-NETW504-Random-Signals](https://github.com/HlozBelloz/Hloz-NETW504-Random-Signals)
 - `milestone 1/`: Working directory for code, notebooks, scripts, and reports.
   - `README.md`: Complete context, rules, feature mappings, and instructions.
 - `data set/`:
