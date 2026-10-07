@@ -29,7 +29,9 @@ cells.append(nbf.v4.new_markdown_cell("""# NETW504 - Random Signals and Noise
 ## Milestone 1: Exploratory Data Analysis (EDA)
 - **Instructor:** Prof. Talal Elshabrawy
 - **Team Name:** Hloz
-- **Student Name:** Mazen Mohamed Hamdy Altelbany (ID: 64-12371)
+- **Team Members:**
+  - Mazen Mohamed Hamdy Altelbany (ID: 64-12371)
+  - Malak Sherif Mohamed (ID: 64-10784)
 
 ---
 ### Goal of this Milestone:

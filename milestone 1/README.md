@@ -1,6 +1,9 @@
 # NETW504 - Random Signals and Noise: Milestone 1 (EDA)
 **Instructor:** Prof. Talal Elshabrawy  
-**Student:** Mazen Mohamed Hamdy Altelbany (ID: 64-12371)  
+**Team Name:** Hloz  
+**Team Members:**  
+- Mazen Mohamed Hamdy Altelbany (ID: 64-12371)  
+- Malak Sherif Mohamed (ID: 64-10784)  
 **Workspace:** `E:\University\random signals\`
 
 ---

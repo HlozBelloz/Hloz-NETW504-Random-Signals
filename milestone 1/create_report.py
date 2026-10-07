@@ -165,8 +165,8 @@ def build_pdf():
     
     meta_text = """
     <b>Instructor:</b> Prof. Talal Elshabrawy &nbsp;|&nbsp; 
-    <b>Team Name:</b> Hloz &nbsp;|&nbsp; 
-    <b>Student:</b> Mazen Mohamed Hamdy Altelbany (ID: 64-12371)<br/>
+    <b>Team Name:</b> Hloz<br/>
+    <b>Team Members:</b> Mazen Mohamed Hamdy Altelbany (ID: 64-12371), Malak Sherif Mohamed (ID: 64-10784)<br/>
     <b>Dataset:</b> Bank Customer Churn Prediction (Kaggle) &nbsp;|&nbsp; 
     <b>Deliverables:</b> Hloz_M1.ipynb, Hloz_M1_Cleaned.csv, Hloz_M1_Report.pdf
     """

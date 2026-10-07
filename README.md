@@ -2,7 +2,10 @@
 
 ## Quick Status
 - **Course**: NETW504 (Random Signals and Noise) - Prof. Talal Elshabrawy
-- **Student**: Mazen Mohamed Hamdy Altelbany (ID: 64-12371)
+- **Team Name**: Hloz
+- **Team Members**:
+  - Mazen Mohamed Hamdy Altelbany (ID: 64-12371)
+  - Malak Sherif Mohamed (ID: 64-10784)
 - **Active Task**: Milestone 1 - Exploratory Data Analysis (EDA)
 
 ## Folder Structure
