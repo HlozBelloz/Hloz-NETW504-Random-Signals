@@ -32,6 +32,8 @@ cells.append(nbf.v4.new_markdown_cell("""# NETW504 - Random Signals and Noise
 - **Team Members:**
   - Mazen Mohamed Hamdy Altelbany (ID: 64-12371)
   - Malak Sherif Mohamed (ID: 64-10784)
+  - Suhad Eyhab Rasheed (ID: 64-31506)
+  - Sama Ismael Ahel (ID: 64-19880)
 
 ---
 ### Goal of this Milestone:
