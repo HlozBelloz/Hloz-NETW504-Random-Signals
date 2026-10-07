@@ -21,4 +21,5 @@
 - `milestone1.pdf`: Specification for Milestone 1 EDA and deliverables.
 
 ## Rules & Next Steps
-Refer directly to [`milestone 1/README.md`](file:///e:/University/random%20signals/milestone%201/README.md) for full task requirements, pipeline rules, feature breakdowns, and deliverable targets.
+- **Full Walkthrough & Explanation**: Read [`EXPLANATION_AND_WALKTHROUGH.md`](file:///e:/University/random%20signals/EXPLANATION_AND_WALKTHROUGH.md) for a complete explanation of the methodology, code, findings, and deliverables.
+- Refer directly to [`milestone 1/README.md`](file:///e:/University/random%20signals/milestone%201/README.md) for task requirements, pipeline rules, feature breakdowns, and deliverable targets.
