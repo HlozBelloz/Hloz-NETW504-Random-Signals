@@ -16,6 +16,9 @@
   - `Hloz_M2.ipynb`: Fully executed Jupyter Notebook with saved outputs and detailed explanations.
   - `Hloz_M2_Report.pdf`: 6-page comprehensive academic PDF report.
   - `Hloz_M2_Bayesian_Posteriors.csv`: Full posterior probabilities table for all 10,000 samples.
+  - `Hloz_M2_Code_Explanation.pdf`: Dedicated PDF explaining each code block in the notebook.
+  - `Hloz_M2_Project_and_Report_Walkthrough.pdf`: Dedicated PDF explaining the entire project and report.
+  - `Hloz_M2_Evaluation_Questions_and_Answers.pdf`: Dedicated PDF for oral evaluation defense preparation.
   - `EXPLANATION_AND_WALKTHROUGH_M2.md`: In-depth code walkthrough and oral defense guide.
   - `README.md`: Milestone 2 overview and test set performance summary.
 - `m2 submit/`: Final official submission deliverables for Milestone 2.

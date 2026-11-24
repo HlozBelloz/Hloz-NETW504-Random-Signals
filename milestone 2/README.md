@@ -43,6 +43,10 @@ E:\University\random signals\
 │   ├── Hloz_M2.ipynb                     # Fully executed notebook with all outputs & code explanations
 │   ├── Hloz_M2_Report.pdf                # Exactly 6-page professional PDF report
 │   ├── Hloz_M2_Bayesian_Posteriors.csv   # Complete Bayesian posterior probabilities table (10,000 rows)
+│   ├── Hloz_M2_Code_Explanation.pdf      # Dedicated PDF: Line-by-line explanation of every notebook code cell
+│   ├── Hloz_M2_Project_and_Report_Walkthrough.pdf # Dedicated PDF: Complete project & report guide
+│   ├── Hloz_M2_Evaluation_Questions_and_Answers.pdf # Dedicated PDF: Oral defense preparation Q&A guide
+│   ├── build_explanation_pdfs.py         # Automated compiler for the 3 explanation PDFs
 │   ├── generate_assets.py                # Asset calculation and figure generation script
 │   ├── create_notebook.py                # Automated notebook builder & executor (via nbclient)
 │   ├── create_report.py                  # Automated 6-page PDF compiler (via ReportLab)
@@ -53,7 +57,10 @@ E:\University\random signals\
 └── m2 submit\                            # Official submission folder
     ├── Hloz_M2.ipynb
     ├── Hloz_M2_Report.pdf
-    └── Hloz_M2_Bayesian_Posteriors.csv
+    ├── Hloz_M2_Bayesian_Posteriors.csv
+    ├── Hloz_M2_Code_Explanation.pdf
+    ├── Hloz_M2_Project_and_Report_Walkthrough.pdf
+    └── Hloz_M2_Evaluation_Questions_and_Answers.pdf
 ```
 
 ---
